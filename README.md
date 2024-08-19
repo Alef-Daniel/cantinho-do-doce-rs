@@ -25,4 +25,4 @@ A landing page do Cantinho do Doce foi desenvolvida para oferecer uma interface 
 
 ## 🌟 Visualização do Projeto
 
-Para visualizar a landing page em ação, você pode acessar a URL ao vivo [aqui](https://www.seusite.com/cantinho-do-doce).
+Para visualizar a landing page em ação, você pode acessar a URL ao vivo [aqui](https://cantinho-do-doce-rs.vercel.app/).
