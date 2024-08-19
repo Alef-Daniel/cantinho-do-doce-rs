@@ -22,7 +22,7 @@ module.exports = {
     },
     extend: {
       backgroundImage:{
-        'image-main': "url('/public/images/fundo-1.jpg')",
+        'image-main': "url('/public/images/Fundo-1.jpg')",
         'image-divider': "url('/public/images/chocolate.jpg')",
         'image-formas': "url('/public/images/background-formas.jpg')",
         'image-bolo':"url('/public/images/background-bolo.jpg')"
