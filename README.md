@@ -1,6 +1,6 @@
 # Cantinho do Doce RS
 
-**Cantinho do Doce RS** é a landing page oficial da nossa charmosa doceria localizada no coração de [Sua Cidade]. Esta página foi criada para fornecer uma experiência visual deliciosa aos visitantes e destacar nossos produtos irresistíveis. 
+**Cantinho do Doce RS** -  Esta página foi criada para fornecer uma experiência visual deliciosa aos visitantes e destacar nossos produtos irresistíveis. 
 
 ![Cantinho do Doce](./public/images/logo-cantinho-do-doce.jpg)  
 
