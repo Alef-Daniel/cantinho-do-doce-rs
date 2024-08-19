@@ -1,30 +1,28 @@
-# React + TypeScript + Vite
+# Cantinho do Doce RS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Cantinho do Doce RS** é a landing page oficial da nossa charmosa doceria localizada no coração de [Sua Cidade]. Esta página foi criada para fornecer uma experiência visual deliciosa aos visitantes e destacar nossos produtos irresistíveis. 
 
-Currently, two official plugins are available:
+![Cantinho do Doce](./public/images/logo-cantinho-do-doce.jpg)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Sobre o Projeto
 
-## Expanding the ESLint configuration
+A landing page do Cantinho do Doce foi desenvolvida para oferecer uma interface atraente e intuitiva, onde nossos clientes podem:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Conhecer nossa história e missão.
+- Navegar pelos nossos produtos e especialidades.
+- Entrar em contato conosco para pedidos e consultas.
 
-- Configure the top-level `parserOptions` property like this:
+### Funcionalidades
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- **Design Responsivo:** Otimizado para todos os dispositivos, garantindo uma experiência de usuário consistente em desktop, tablet e mobile.
+- **Galeria de Produtos:** Apresenta nossos doces e bolos com imagens de alta qualidade e descrições detalhadas.
+- **Integração com Redes Sociais:** Links para nossas redes sociais para que você possa acompanhar nossas novidades e promoções.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 🛠️ Tecnologias Utilizadas
+- **TailwindCss:** Estilização da pagina.
+- **Typescript:** Interatividade e funcionalidades dinâmicas.
+- **React.js:** Biblioteca para construção da interface de usuário
+
+## 🌟 Visualização do Projeto
+
+Para visualizar a landing page em ação, você pode acessar a URL ao vivo [aqui](https://www.seusite.com/cantinho-do-doce).
